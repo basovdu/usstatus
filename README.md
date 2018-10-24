@@ -1,1 +1,5 @@
-# usstatus
+{
+  "rev": "SKIP",
+  "path": "G:\\"
+
+}
